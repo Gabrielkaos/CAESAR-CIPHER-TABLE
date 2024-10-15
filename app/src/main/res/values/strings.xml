@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Linear Cipher</string>
+
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+
+    <string name="k">K</string>
+    <string name="m">M</string>
+</resources>
